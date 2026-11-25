@@ -4,8 +4,6 @@
 
 - 姓名：马晨曦
 - 学号：20263001274
-- GitHub 用户名：[@henshenmi](https://github.com/henshenmi)
-- 仓库名称：`diankong4`
 - 芯片：STM32F103C8T6
 - 开发工具：STM32CubeMX、CLion、OpenOCD、ST-Link
 
