@@ -2,6 +2,8 @@
 
 使用 STM32F103C8T6 的 TIM2_CH1（PA0）输出 50 Hz PWM，驱动 180 度 SG90 舵机依次转到 0°、45°、90°、135°、180°。OLED 和 USART1 同步显示目标角度、CCR 与脉宽。
 
+- 姓名：马晨曦
+- 学号：20263001274
 - GitHub 用户名：[@henshenmi](https://github.com/henshenmi)
 - 仓库名称：`diankong4`
 - 芯片：STM32F103C8T6
